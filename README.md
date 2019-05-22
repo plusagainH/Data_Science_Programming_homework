@@ -25,3 +25,6 @@
 ## Week 7 2019-04-04
 - HW1
 
+## Week 13 2019-05-16
+- [pitch](https://docs.google.com/presentation/d/1-SP0ZEXnFupWe2fMbuB70RskdlhvVafnFSC-eIz_8Ug/edit?fbclid=IwAR2IS65bN28omLqw1fPEWbQHdXz8lKL6wRxOzSZ1_wJ8Pp1rz9tIDEC6qa0#slide=id.g5a27c366fc_0_349)
+
